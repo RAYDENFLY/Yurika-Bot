@@ -1,6 +1,5 @@
 # Yurika-Bot
-<script src="https://discordbotlist.com/widget/index.js"></script>
-<dbl-widget bot-id="bot-yurika-chan"></dbl-widget>
+https://discordbotlist.com/bots/yurika-chan
 
 Bot ini di build menggunakan api BDB.js yang memudahkan kita untuk membuat bot discord
 
